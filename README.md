@@ -1,2 +1,2 @@
 # Pulingle-Config-Repo
-Pulingle配置Repo
+Pulingle配置中心
