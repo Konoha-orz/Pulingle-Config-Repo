@@ -22,3 +22,6 @@ picture-service)。集中管理配置可以更加高效方便。
 服务配置：[config_server](https://github.com/Konoha-orz/config_server)</br>
 * 统一管理配置</br>
 [Pulingle-Config-Repo](https://github.com/Konoha-orz/Pulingle-Config-Repo)</br>
+
+### 项目演示</br>
+* [视频演示地址](https://pulingle.oss-cn-shenzhen.aliyuncs.com/Pulingle%E6%BC%94%E7%A4%BA%E5%BD%95%E5%B1%8F.mp4)</br>
