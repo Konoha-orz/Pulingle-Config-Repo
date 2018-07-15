@@ -11,14 +11,14 @@ picture-service)。集中管理配置可以更加高效方便。
 * 运行期间可动态调整：
 可以根据各个微服务情况，动态调整不同的配置参数，并且在调整配置时不停止微服务。
 ## Pulingle项目
-* 微服务
+* 微服务</br>
 用户服务:   [user-service](https://github.com/Konoha-orz/user_service)</br>
 消息服务:   [message-service](https://github.com/Konoha-orz/message_service)</br>
 图片服务:   [picture-service](https://github.com/Konoha-orz/picture_service)</br>
 动态服务:   [moment-service](https://github.com/Konoha-orz/moment_service)</br>
-* Spring Cloud 组件
+* Spring Cloud 组件</br>
 服务发现：[eureka_server](https://github.com/Konoha-orz/eureka_server)</br>
 服务网关：[gateway_zuul](https://github.com/Konoha-orz/gateway_zuul)</br>
 服务配置：[config_server](https://github.com/Konoha-orz/config_server)</br>
-* 统一管理配置
+* 统一管理配置</br>
 [Pulingle-Config-Repo](https://github.com/Konoha-orz/Pulingle-Config-Repo)</br>
